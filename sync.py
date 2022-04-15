@@ -6,7 +6,7 @@ import rclone
 
 cfg_path = "./rclone.conf"
 from_drives = [
-    "Ant_Air",
+    "Ant_Airing",
     "___backups",
     "__code",
     "__meow",
