@@ -6,7 +6,7 @@ import rclone
 
 cfg_path = "./rclone.conf"
 from_drives = [
-    "test",
+    "Aniex_Air",
     "___backups",
     "__code",
     "__meow",
@@ -16,7 +16,7 @@ from_drives = [
     "public",
 ]
 to_drives = [
-    "1",
+    "xbackup",
     "2",
     "3",
     "4",
