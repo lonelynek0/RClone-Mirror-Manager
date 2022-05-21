@@ -6,21 +6,10 @@ import rclone
 
 cfg_path = "./rclone.conf"
 from_drives = [
-    "Ant_Airing",
-    "___backups",
-    "__code",
-    "__meow",
-    "__quack",
-    "dumpyard",
-    "pss",
-    "public",
+    "td6",
 ]
 to_drives = [
-    "xbackup",
-    "2",
-    "3",
-    "4",
-    "5",
+    "sheer",
 ]
 
 cfg = open(cfg_path).read()
